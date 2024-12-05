@@ -1,2 +1,6 @@
-# Pari-
-Code
+{
+"rewrites":[
+  { "source" : "/(.*)" , "destination": "/"}
+
+  ]
+  }
